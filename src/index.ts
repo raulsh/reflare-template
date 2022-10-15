@@ -8,7 +8,7 @@ const handleRequest = async (
   reflare.push({
     path: '/*',
     upstream: {
-      domain: 'ifconfig.me',
+      domain: 'cej.pj.gob.pe',
       protocol: 'https',
     },
   });
